@@ -4,7 +4,7 @@
 
 This repository describes my RAT (reverse avalanche transistor) drone synth. I generated the image of the bird using Stable Diffusion (AI).
 
-![](images/lights.jpeg?raw=true "Title")
+![](images/lights.jpeg?raw=true)
 
 > [!CAUTION]
 > This repository is provided for information only. I am not an electronic or electrical engineer, and so, if you decide to build this project, you do so at your own risk.
@@ -17,7 +17,7 @@ This project was inspired by the work by [Sam Battle](https://www.lookmumnocompu
 
 ## The design
 
-My design is heavily influenced and an adapted version of Sam Battle's ['2000 Megadrone Module'](https://www.lookmumnocomputer.com/2000-megadrone). There are schematics and a BOM on his website.
+My design is an adapted version of Sam Battle's ['2000 Megadrone Module'](https://www.lookmumnocomputer.com/2000-megadrone). There are schematics and a BOM on his website.
 
 I adapted the design - removed CV, eurorack power and adapted the capacitors to generally be lower in value and therefore lower in pitch.
 
@@ -33,14 +33,14 @@ The design includes 10 oscillators, each with their own pitch and volume control
 
 I designed the schematic and PCB in [KiCAD](https://www.kicad.org/) - which is incredible and its free! My schematic, PCB and drill templates are included in this repository.
 
-![Schematic](schematic/drone_ting.png?raw=true "Title")
+![Schematic](schematic/drone_ting.png?raw=true)
 
 ## The PCB
 
-The PCB is simple, 2 sided with pots on one side and all other components on the other. I had mine made by [JLCPCB](https://jlcpcb.com/), costing $11.40 + postage - for 5! If you want to order the same for yourself - navigate to the \gerbers\send_to_PCB_manufacturer.zip - simply upload this to your chosen manufacturer to order.
+The PCB is simple, 2 sided with pots and LEDs on one side and all other components on the other. I had mine made by [JLCPCB](https://jlcpcb.com/), costing $11.40 + postage - for 5! If you want to order the same for yourself - navigate to the \gerbers\send_to_PCB_manufacturer.zip - simply upload this to your chosen manufacturer to order.
 
-![PCB front](images/pcb_front.jpeg?raw=true "Title")
-![PCB front](images/pcb_back.jpeg?raw=true "Title")
+![PCB front](images/pcb_front.jpeg?raw=true)
+![PCB front](images/pcb_back.jpeg?raw=true)
 
 This is a very beginner friendly build, all through hole components and nothing too small.
 
@@ -64,9 +64,20 @@ I used Tayda to source all my components, apart from the 10x SS9018, which i sou
 
 ## The enclosure
 
+I wanted an 80's industrial submarine type vibe to suit the very heavy and industrial sounds that this drone synth can produce. I opted for a [1590DD Style Aluminum Diecast Enclosure from Tayda](https://www.taydaelectronics.com/1590dd-style-aluminum-diecast-enclosure.html). I also got them to do all the [custom drilling](https://www.taydaelectronics.com/1590dd-custom-drill-enclosure-service.html) on the front. I have included the drilling template in the KiCAD files. Screenshot of this below:
+
+![](images/drill.png?raw=true)
+
 
 ## The finished article
 
+![](images/side.jpeg?raw=true)
+
+![](images/detail.jpeg?raw=true)
+
+![](images/super_close.jpeg?raw=true)
+
+It turned out to be exactly how I imagined. I have contemplated laser etching some labels and things onto the synth front, but I actually like the fact that its clean and blank and is intriguing. It is after all, an incredibly simple instrument to use.
 
 ## Technical audio test and demo audio
 
