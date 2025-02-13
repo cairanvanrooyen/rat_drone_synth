@@ -93,11 +93,6 @@ I also recorded a video where I connected the synth to my Focusrite Scarlett Sol
 
 ![](demo.wav?raw=true)
 
-<script>
-    var audio = new Audio('demo.wav?raw=true');
-    audio.play();
-</script>
-
 ## Lessons learned and future ideas
 
 1. Get the pots the right way around ;)
