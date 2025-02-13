@@ -79,8 +79,32 @@ I wanted an 80's industrial submarine type vibe to suit the very heavy and indus
 
 It turned out to be exactly how I imagined. I have contemplated laser etching some labels and things onto the synth front, but I actually like the fact that its clean and blank and is intriguing. It is after all, an incredibly simple instrument to use.
 
-## Technical audio test and demo audio
+## 'Technical' audio demo
 
+Below is an image of the waveform of one 10uF oscillator. 
+
+![](images/scope.jpeg?raw=true)
+
+I also recorded a video where I connected the synth to my Focusrite Scarlett Solo, passed into Ableton Live and used Pro-Q3 and [jo.Floating Oscilloscope 1.1](https://maxforlive.com/library/device/1918/jo-floating-oscilloscope) - see screenshot below. In the video, I slowly bring in each of the different (4.7uF, 10uF and 100uF oscillators) and change their volume and pitch. Pro-Q3 shows the frequency form of the sound and the oscilloscope (although not ideal) gives some idea of the waveform. The video can be accessed [here on YouTube](https://youtu.be/z13XVZWmLFw).
+
+![](images/youtube.png?raw=true)
+
+## Sound demo
+
+![](demo.wav?raw=true)
+
+<script>
+    var audio = new Audio('demo.wav?raw=true');
+    audio.play();
+</script>
 
 ## Lessons learned and future ideas
+
+1. Get the pots the right way around ;)
+2. Maybe have a cutout section in PCB to allow for power and audio jacks
+3. More variety in capacitor values
+4. Get Tayda to drill power and audio
+5. Maybe laser etch the face
+6. More additions: distortion, delay, wavefolder, on/off switches, CV, LFO, switching different caps and more...
+
 
