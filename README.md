@@ -91,7 +91,7 @@ I also recorded a video where I connected the synth to my Focusrite Scarlett Sol
 
 ## Sound demo
 
-![](demo.wav?raw=true)
+![](https://github.com/cairanvanrooyen/rat_drone_synth/blob/main/demo.wav?raw=true)
 
 ## Lessons learned and future ideas
 
