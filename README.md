@@ -77,6 +77,8 @@ I wanted an 80's industrial submarine type vibe to suit the very heavy and indus
 
 ![](images/super_close.jpeg?raw=true)
 
+![](images/guts.jpeg?raw=true)
+
 It turned out to be exactly how I imagined. I have contemplated laser etching some labels and things onto the synth front, but I actually like the fact that its clean and blank and is intriguing. It is after all, an incredibly simple instrument to use.
 
 ## 'Technical' audio demo
